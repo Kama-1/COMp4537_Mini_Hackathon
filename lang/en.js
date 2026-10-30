@@ -1,0 +1,3 @@
+exports.STRINGS = {
+    HELLO: "HELLO",
+};
